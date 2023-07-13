@@ -1,0 +1,5 @@
+build-essential 
+gdb 
+pkg-config
+openssl
+libssl-dev
